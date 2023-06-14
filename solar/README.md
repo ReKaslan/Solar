@@ -1,6 +1,6 @@
 * Solar a network scanning tool
 
-https://github.com/Solar
+https://github.com/Solar.git
 
 * Current version 1.0
     - Ping scan
