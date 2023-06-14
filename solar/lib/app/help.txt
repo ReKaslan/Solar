@@ -1,0 +1,7 @@
+Bruh, you need help?
+
+$ ./pymap.exe <host> <options>
+
+i.e ./pymap.exe www.google.com --port 1-80, pymap.py www.facebook.com --port 80, pymap.py --ping www.twitter.com
+
+By using -v mode allows you to see the scanning runtime outputs.
