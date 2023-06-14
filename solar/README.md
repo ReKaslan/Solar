@@ -1,5 +1,7 @@
 * Solar a network scanning tool
 
+https://github.com/Solar
+
 * Current version 1.0
     - Ping scan
     - Port scan 
