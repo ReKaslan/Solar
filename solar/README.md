@@ -1,4 +1,4 @@
-* PyMap a network scanning tool
+* Solar a network scanning tool
 
 * Current version 1.0
     - Ping scan
