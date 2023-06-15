@@ -2,6 +2,9 @@
 
 https://github.com/Solar.git
 
+* Help
+    - solor.exe --support
+
 * Current version 1.0
     - Ping scan
     - Port scan 
