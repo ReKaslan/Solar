@@ -2,6 +2,6 @@ Bruh, you need help?
 
 $ solar.exe <host> <options>
 
-i.e solar.exe www.google.com --port 1-80, pymap.py www.facebook.com --port 80, pymap.py --ping www.twitter.com
+i.e ./solar.exe www.google.com --port 1-80, ./solar.exe www.facebook.com --port 80, ./solar.exe --ping www.twitter.com
 
 By using -v mode allows you to see the scanning runtime outputs.
